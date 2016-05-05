@@ -1,3 +1,10 @@
+md-tabs.md-default-theme.md-primary > md-tabs-wrapper, md-tabs.md-primary > md-tabs-wrapper,md-toolbar.md-default-theme:not(.md-menu-toolbar), md-toolbar:not(.md-menu-toolbar)
+,.md-toolbar.md-default-theme.md-hue-2:not(.md-menu-toolbar), md-toolbar.md-hue-2:not(.md-menu-toolbar) {
+    background-color: rgb(6, 115, 165);
+}
+a.md-button.md-default-theme.md-fab, a.md-button.md-fab, .md-button.md-default-theme.md-fab, .md-button.md-fab {
+    background-color: rgb(241, 241, 241);
+}
 .md-content .md-default-theme {
     background-color: #eee;
 }

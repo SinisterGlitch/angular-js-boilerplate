@@ -35,7 +35,7 @@ app.controller('AppCtrl', ['$scope', '$mdBottomSheet','$mdSidenav', '$mdDialog',
     ];
     $scope.activity = [
         {
-            what: 'Brunch this weekend?',
+            what: 'Gaming ARMA3 tonight?',
             who: 'Ali Conners',
             when: '3:08PM',
             notes: " I'll be in your neighborhood doing errands"
