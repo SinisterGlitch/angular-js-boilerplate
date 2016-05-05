@@ -1,2 +1,2 @@
-1 - run "npm build" or "npm dev"
+1 - run "npm install"
 2 - open "app/index.html"
